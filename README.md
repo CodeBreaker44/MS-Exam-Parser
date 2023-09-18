@@ -4,6 +4,7 @@ This Python script, "ExamTopics Parser," is designed to help you quickly find an
 ## Prerequisites
 * Before you can use this script, you need to ensure that Python is installed in your machine.
 * Dependencies: Install the required dependencies by running the following command within the project directory:
+
   ```shell
   pip install -r requirements.txt
   ```
