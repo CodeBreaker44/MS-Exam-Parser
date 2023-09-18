@@ -45,3 +45,7 @@ You can customize the script by modifying the user_agents list to specify differ
 
 ## Disclaimer
 This script is provided for educational and informational purposes only. The authors and contributors are not responsible for any misuse or violation of terms of service resulting from the use of this script.
+
+## Demo
+![image](https://github.com/CodeBreaker44/MS-Exam-Parser/assets/89404773/9abb383f-edc5-4bb8-9221-659a4dfecd00)
+
